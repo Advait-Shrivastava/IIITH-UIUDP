@@ -5,13 +5,13 @@ This app offers a convenient solution by enabling students to quickly determine 
 ***
 
 <div align="center">
-    <img src="https://github.com/Advait-Shrivastava/IIITH-UIUDP/assets/59224726/93bb7a45-9f8b-464e-a8b5-4efab8b44920">
+    <img src="https://github.com/Advait-Shrivastava/IIITH-UIUDP/assets/59224726/8d065573-5b9e-4903-8bae-f859cd254197">
 </div>
 
 ***
 
 <div align="center">
-    <img src="https://github.com/Advait-Shrivastava/IIITH-UIUDP/assets/59224726/01559aac-8786-4198-83ad-bb4cec0832b1">
+    <img src="https://github.com/Advait-Shrivastava/IIITH-UIUDP/assets/59224726/65756e67-8c04-476b-9b56-7e17a4f68dd1">
 </div>
 
 ***
